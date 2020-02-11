@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noongesah.m-o-z.art/sitemap.xml
